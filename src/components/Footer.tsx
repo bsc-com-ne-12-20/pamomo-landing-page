@@ -87,7 +87,7 @@ const Footer: React.FC = () => {
               </li>
               <li>
                 <a 
-                  href="http://localhost:5173/developer-api" 
+                  href="https://pamomo.netlify.app/developer-api" 
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-400 hover:text-white"
