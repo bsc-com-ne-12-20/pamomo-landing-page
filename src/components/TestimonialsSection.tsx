@@ -44,23 +44,23 @@ const TestimonialCard: React.FC<TestimonialProps> = ({ name, role, image, quote,
 const TestimonialsSection: React.FC = () => {
   const testimonials = [
     {
-      name: "Sarah Johnson",
+      name: "Sarah Phiri",
       role: "Small Business Owner",
-      image: "https://randomuser.me/api/portraits/women/44.jpg",
+      image: "https://randomuser.me/api/portraits/women/62.jpg",
       quote: "Pamomo Wallet has transformed how I manage my business finances. The merchant tools are incredibly powerful and easy to use.",
       rating: 5
     },
     {
-      name: "Michael Chen",
+      name: "John Banda",
       role: "Freelancer",
-      image: "https://randomuser.me/api/portraits/men/32.jpg",
+      image: "https://randomuser.me/api/portraits/men/30.jpg",
       quote: "I love how fast and secure Pamomo is. Sending money to clients has never been easier, and the low fees are a huge plus.",
       rating: 4.5
     },
     {
-      name: "Aisha Mohammed",
-      role: "Online Seller",
-      image: "https://randomuser.me/api/portraits/women/68.jpg",
+      name: "Chimwemwe Mvula",
+      role: "Kaunjika Online Seller",
+      image: "https://randomuser.me/api/portraits/women/89.jpg",
       quote: "As a merchant, Pamomo's tools have helped me grow my online store. The analytics and reporting features are exceptional.",
       rating: 5
     }
