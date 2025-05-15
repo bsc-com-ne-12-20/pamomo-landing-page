@@ -35,7 +35,7 @@ const FAQSection: React.FC = () => {
   const faqs = [
     {
       question: "How do I create a Pamomo Wallet account?",
-      answer: "Creating a Pamomo Wallet account is easy! Simply download our app from the app store, click 'Sign Up', and follow the registration process. You can register with or without a physical ID card, making financial inclusion accessible for everyone."
+      answer: "Creating a Pamomo Wallet account is easy! Simply visit our website at pamomo-wallet.netlify.app, click 'Sign Up', and follow the registration process. You can register with or without a physical ID card, making financial inclusion accessible for everyone."
     },
     {
       question: "Is Pamomo Wallet secure?",
@@ -51,7 +51,7 @@ const FAQSection: React.FC = () => {
     },
     {
       question: "How do I become a Pamomo Merchant?",
-      answer: "To become a Pamomo Merchant, click the 'Become a Pamomo Merchant' button on our homepage and follow the registration process. You'll need to provide some basic business information and complete our verification process. Premium plan subscribers receive a free merchant account."
+      answer: "To become a Pamomo Merchant, click the 'Become a Pamomo Merchant' button on our homepage or visit pamomo-agent.netlify.app directly and follow the registration process. You'll need to provide some basic business information and complete our verification process. Premium plan subscribers receive a free merchant account."
     },
     {
       question: "Can I use Pamomo Wallet internationally?",

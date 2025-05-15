@@ -24,17 +24,17 @@ const HowItWorksSection: React.FC = () => {
     {
       number: 1,
       title: "Sign Up",
-      description: "Download the app and create your account in minutes with just your email and phone number."
+      description: "Visit our website and create your account in minutes with just your email and phone number."
     },
     {
       number: 2,
       title: "Verify Your Identity",
-      description: "Complete our quick verification process to unlock all features and higher transaction limits."
+      description: "Complete our quick verification process to enjoy free transactions."
     },
     {
       number: 3,
       title: "Start Transacting",
-      description: "Add money to your wallet and start sending, receiving, and managing your funds seamlessly."
+      description: "Add money to your wallet and start sending, receiving, and managing your funds seamlessly online."
     }
   ];
 

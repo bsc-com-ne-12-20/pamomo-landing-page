@@ -1,5 +1,8 @@
 import React from 'react';
 
+// Import the dashboard image
+import dashboardImage from '../components/images/dashboard.png';
+
 const HeroSection: React.FC = () => {
   return (
     <section className="gradient-bg text-white">
@@ -23,12 +26,12 @@ const HeroSection: React.FC = () => {
               </a>
             </div>
             <div className="mt-6 text-sm bg-white bg-opacity-20 inline-block px-4 py-2 rounded-full">
-              <span className="font-semibold">✨ No registration fees</span> • <span className="font-semibold">✨ No monthly charges</span> • <span className="font-semibold">✨ No transaction fees</span>
+              <span className="font-semibold">✨ No registration fees</span> • <span className="font-semibold">✨ Secure</span> • <span className="font-semibold">✨ No transaction fees</span>
             </div>
           </div>
           <div className="md:w-1/2 flex justify-center">
             <img 
-              src="/src/components/images/dashboard.png"
+              src={dashboardImage}
               alt="Pamomo Wallet Dashboard" 
               className="w-4/5 md:w-auto md:max-h-[30rem] max-w-lg floating shadow-lg rounded-lg object-cover transform scale-110"
             />
