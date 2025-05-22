@@ -19,7 +19,7 @@ const HeroSection: React.FC = () => {
                 Get Your Free Wallet Now
               </a>
               <a 
-                href="https://pamomo-agent.netlify.app" 
+                href="https://pamomo-agent.netlify.app/agent-application" 
                 className="border-2 border-white text-white px-8 py-3 rounded-full font-bold text-center hover:bg-white hover:text-[#8928a4] transition duration-300"
               >
                 Become a Pamomo Merchant
